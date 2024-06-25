@@ -20,7 +20,7 @@ This repository provides a simple setup to quickly spin up a PostgreSQL database
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/postgres-db-environment.git
+   git clone https://github.com/pmt-eaedk/postgres-db-environment.git
    cd postgres-db-environment
    ```
 
